@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'Strava - Injury Heat Map',
             demo: 'https://www.strava.com/oauth/authorize?client_id=71922&response_type=code&redirect_uri=https://samuelsturrock.github.io/my-app/&approval_prompt=force&scope=activity:read_all',
             technologies: ['React', 'JavaScript'],
-            description: "Utilising the Strava API to display a range of information thats not imidiatly transparent on their site.",
+            description: "A version of the app that utilises the Strava API to display a range of information thats not imidiatly transparent on their site.",
             categories: ['featured', 'webdev']
         }
 
