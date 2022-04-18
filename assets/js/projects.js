@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/CV.jpg',
-            link: 'https://github.com/SamuelSturrock/Portfolio/,
+            link: 'https://github.com/SamuelSturrock/Portfolio/',
             title: 'CV',
             demo: 'https://github.com/SamuelSturrock/Portfolio/',
             technologies: ['GitHub', 'JavaScript', 'CSS'],
@@ -21,13 +21,13 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/Strava.jpg',
-            link: 'https://github.com/SamuelSturrock/my-app,
+            link: 'https://github.com/SamuelSturrock/my-app',
             title: 'Strava - Injury Heat Map',
             demo: 'https://www.strava.com/oauth/authorize?client_id=71922&response_type=code&redirect_uri=https://samuelsturrock.github.io/my-app/&approval_prompt=force&scope=activity:read_all',
             technologies: ['React', 'JavaScript'],
             description: "Utilising the Strava API to display a range of information thats not imidiatly transparent on their site.",
             categories: ['featured', 'webdev']
-        },
+        }
 
     ]
 
