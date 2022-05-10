@@ -28,6 +28,16 @@ let render_projects = (slug) => {
             description: "A version of the app that utilises the Strava API to display a range of information thats not imidiatly transparent on their site.",
             categories: ['featured', 'webdev']
         }
+        
+                {
+            image: 'assets/images/emotion',
+            link: '#',
+            title: 'Dissertation: Emotion Detector',
+            demo: '#',
+            technologies: ['Python', 'AI'],
+            description: "Real time emotion Detector for people with and without a face mask. Up to 90% accuracy.",
+            categories: ['featured', 'webdev']
+        }
 
     ]
 
