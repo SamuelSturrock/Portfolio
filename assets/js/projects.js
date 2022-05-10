@@ -27,9 +27,9 @@ let render_projects = (slug) => {
             technologies: ['React', 'JavaScript'],
             description: "A version of the app that utilises the Strava API to display a range of information thats not imidiatly transparent on their site.",
             categories: ['featured', 'webdev']
-        }
+        },
         
-                {
+        {
             image: 'assets/images/emotion',
             link: '#',
             title: 'Dissertation: Emotion Detector',
