@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         
         {
-            image: 'assets/images/emotion',
+            image: 'assets/images/emotionDec.png',
             link: '#',
             title: 'Dissertation: Emotion Detector',
             demo: '#',
